@@ -1,0 +1,1434 @@
+{
+  ".hafez": {
+    "dibache": {
+      "mode": "no_sh"
+    },
+    "ghazal": {
+      "mode": "sh_pages",
+      "count": 0
+    },
+    "ghete": {
+      "mode": "sh_pages"
+    },
+    "robaee2": {
+      "mode": "sh_pages"
+    },
+    "ghaside": {
+      "mode": "sh_pages"
+    },
+    "montasab": {
+      "mode": "sh_pages"
+    },
+    "masnavi": {
+      "mode": "no_sh"
+    },
+    "saghiname": {
+      "mode": "no_sh"
+    }
+  },
+  "hafez": {
+    "ghazal": {
+      "mode": "sh_pages",
+      "count": 495
+    },
+    "dibache": {
+      "mode": "no_sh"
+    },
+    "ghete": {
+      "mode": "sh_pages",
+      "count": 34
+    },
+    "robaee2": {
+      "mode": "sh_pages",
+      "count": 42
+    },
+    "ghaside": {
+      "mode": "sh_pages",
+      "count": 3
+    },
+    "montasab": {
+      "mode": "sh_pages",
+      "count": 118
+    },
+    "masnavi": {
+      "mode": "no_sh"
+    },
+    "saghiname": {
+      "mode": "no_sh"
+    }
+  },
+  "attar": {
+    "__hint__": {
+      "mode": "unknown"
+    },
+    "divana": {
+      "mode": "no_sh"
+    },
+    "manteghotteyr": {
+      "mode": "no_sh"
+    },
+    "elahiname": {
+      "mode": "no_sh"
+    },
+    "bolbolname": {
+      "mode": "sh_pages",
+      "count": 38
+    },
+    "asrarname": {
+      "mode": "no_sh"
+    },
+    "khosroname": {
+      "mode": "sh_pages",
+      "count": 71
+    },
+    "mokhtarname": {
+      "mode": "no_sh"
+    },
+    "30fasl": {
+      "mode": "sh_pages",
+      "count": 28
+    },
+    "bayanolershad": {
+      "mode": "sh_pages",
+      "count": 36
+    },
+    "bisarname": {
+      "mode": "sh_pages",
+      "count": 7
+    },
+    "hylajname": {
+      "mode": "sh_pages",
+      "count": 68
+    },
+    "mazhar": {
+      "mode": "sh_pages",
+      "count": 7
+    },
+    "jz": {
+      "mode": "no_sh"
+    },
+    "ma": {
+      "mode": "sh_pages",
+      "count": 83
+    },
+    "mosibatname": {
+      "mode": "no_sh"
+    },
+    "vaslatname": {
+      "mode": "sh_pages",
+      "count": 72
+    },
+    "na": {
+      "mode": "sh_pages",
+      "count": 21
+    },
+    "pandname": {
+      "mode": "sh_pages",
+      "count": 79
+    },
+    "oshtorname": {
+      "mode": "sh_pages",
+      "count": 30
+    },
+    "tazkerat-ol-ouliya": {
+      "mode": "sh_pages",
+      "count": 97
+    },
+    "fn": {
+      "mode": "no_sh"
+    },
+    "divana/ghazal-attar": {
+      "mode": "sh_pages",
+      "count": 852
+    },
+    "manteghotteyr/touhid": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "elahiname/ebkhsh0": {
+      "mode": "sh_pages",
+      "count": 9
+    },
+    "asrarname/abkhsh1": {
+      "mode": "sh_pages",
+      "count": 1
+    },
+    "mokhtarname/bb1": {
+      "mode": "sh_pages",
+      "count": 111
+    },
+    "jz/d1": {
+      "mode": "sh_pages",
+      "count": 102
+    },
+    "mosibatname/mbkhsh0": {
+      "mode": "sh_pages",
+      "count": 34
+    },
+    "divana/ghasidea": {
+      "mode": "sh_pages",
+      "count": 30
+    },
+    "divana/tarjeeat-attar": {
+      "mode": "sh_pages",
+      "count": 3
+    },
+    "manteghotteyr/naat": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "manteghotteyr/kholafa": {
+      "mode": "sh_pages",
+      "count": 4
+    },
+    "manteghotteyr/taassob": {
+      "mode": "sh_pages",
+      "count": 8
+    },
+    "manteghotteyr/aghazm": {
+      "mode": "sh_pages",
+      "count": 1
+    },
+    "manteghotteyr/30morgh": {
+      "mode": "sh_pages",
+      "count": 1
+    },
+    "manteghotteyr/bolbol": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "manteghotteyr/2t": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "manteghotteyr/tavoos": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "manteghotteyr/bat": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "manteghotteyr/kabk": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "manteghotteyr/homay": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "manteghotteyr/baaz": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "manteghotteyr/bootimar": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "manteghotteyr/koof": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "manteghotteyr/saawe": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "manteghotteyr/porsesh": {
+      "mode": "sh_pages",
+      "count": 4
+    },
+    "manteghotteyr/hodhod": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "manteghotteyr/azm-rah": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "manteghotteyr/ozr-morghan": {
+      "mode": "sh_pages",
+      "count": 98
+    },
+    "manteghotteyr/vadi-talab": {
+      "mode": "sh_pages",
+      "count": 8
+    },
+    "manteghotteyr/vadi-eshgh": {
+      "mode": "sh_pages",
+      "count": 7
+    },
+    "manteghotteyr/vadi-marefat": {
+      "mode": "sh_pages",
+      "count": 6
+    },
+    "manteghotteyr/vadi-esteghna": {
+      "mode": "sh_pages",
+      "count": 8
+    },
+    "manteghotteyr/vad-towhid": {
+      "mode": "sh_pages",
+      "count": 6
+    },
+    "manteghotteyr/vadi-heyrat": {
+      "mode": "sh_pages",
+      "count": 6
+    },
+    "manteghotteyr/vadi-faghr": {
+      "mode": "sh_pages",
+      "count": 7
+    },
+    "manteghotteyr/30-morgh": {
+      "mode": "sh_pages",
+      "count": 6
+    },
+    "manteghotteyr/haaleh": {
+      "mode": "sh_pages",
+      "count": 13
+    },
+    "elahiname/ebkhsh1": {
+      "mode": "sh_pages",
+      "count": 3
+    },
+    "elahiname/ebkhsh2": {
+      "mode": "sh_pages",
+      "count": 11
+    },
+    "elahiname/ebkhsh3": {
+      "mode": "sh_pages",
+      "count": 12
+    },
+    "elahiname/ebkhsh4": {
+      "mode": "sh_pages",
+      "count": 6
+    },
+    "elahiname/ebkhsh5": {
+      "mode": "sh_pages",
+      "count": 12
+    },
+    "elahiname/ebkhsh6": {
+      "mode": "sh_pages",
+      "count": 11
+    },
+    "elahiname/ebkhsh7": {
+      "mode": "sh_pages",
+      "count": 20
+    },
+    "elahiname/ebkhsh8": {
+      "mode": "sh_pages",
+      "count": 15
+    },
+    "elahiname/ebkhsh9": {
+      "mode": "sh_pages",
+      "count": 15
+    },
+    "elahiname/ebkhsh10": {
+      "mode": "sh_pages",
+      "count": 16
+    },
+    "elahiname/ebkhsh11": {
+      "mode": "sh_pages",
+      "count": 15
+    },
+    "elahiname/ebkhsh12": {
+      "mode": "sh_pages",
+      "count": 14
+    },
+    "elahiname/ebkhsh13": {
+      "mode": "sh_pages",
+      "count": 21
+    },
+    "elahiname/ebkhsh14": {
+      "mode": "sh_pages",
+      "count": 26
+    },
+    "elahiname/ebkhsh15": {
+      "mode": "sh_pages",
+      "count": 14
+    },
+    "elahiname/ebkhsh16": {
+      "mode": "sh_pages",
+      "count": 7
+    },
+    "elahiname/ebkhsh17": {
+      "mode": "sh_pages",
+      "count": 13
+    },
+    "elahiname/ebkhsh18": {
+      "mode": "sh_pages",
+      "count": 13
+    },
+    "elahiname/ebkhsh19": {
+      "mode": "sh_pages",
+      "count": 16
+    },
+    "elahiname/ebkhsh20": {
+      "mode": "sh_pages",
+      "count": 14
+    },
+    "elahiname/ebkhsh21": {
+      "mode": "sh_pages",
+      "count": 3
+    },
+    "elahiname/ebkhsh22": {
+      "mode": "sh_pages",
+      "count": 13
+    },
+    "elahiname/ebkhsh23": {
+      "mode": "sh_pages",
+      "count": 15
+    },
+    "elahiname/ebkhsh24": {
+      "mode": "sh_pages",
+      "count": 3
+    },
+    "asrarname/abkhsh2": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "asrarname/abkhsh3": {
+      "mode": "sh_pages",
+      "count": 4
+    },
+    "asrarname/abkhsh4": {
+      "mode": "sh_pages",
+      "count": 1
+    },
+    "asrarname/abkhsh5": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "asrarname/abkhsh6": {
+      "mode": "sh_pages",
+      "count": 9
+    },
+    "asrarname/abkhsh7": {
+      "mode": "sh_pages",
+      "count": 11
+    },
+    "asrarname/abkhsh8": {
+      "mode": "sh_pages",
+      "count": 3
+    },
+    "asrarname/abkhsh9": {
+      "mode": "sh_pages",
+      "count": 6
+    },
+    "asrarname/abkhsh10": {
+      "mode": "sh_pages",
+      "count": 6
+    },
+    "asrarname/abkhsh11": {
+      "mode": "sh_pages",
+      "count": 13
+    },
+    "asrarname/abkhsh12": {
+      "mode": "sh_pages",
+      "count": 13
+    },
+    "asrarname/abkhsh13": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "asrarname/abkhsh14": {
+      "mode": "sh_pages",
+      "count": 6
+    },
+    "asrarname/abkhsh15": {
+      "mode": "sh_pages",
+      "count": 5
+    },
+    "asrarname/abkhsh16": {
+      "mode": "sh_pages",
+      "count": 5
+    },
+    "asrarname/abkhsh17": {
+      "mode": "sh_pages",
+      "count": 5
+    },
+    "asrarname/abkhsh18": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "asrarname/abkhsh19": {
+      "mode": "sh_pages",
+      "count": 15
+    },
+    "asrarname/abkhsh20": {
+      "mode": "sh_pages",
+      "count": 4
+    },
+    "asrarname/abkhsh21": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "asrarname/abkhsh22": {
+      "mode": "sh_pages",
+      "count": 8
+    },
+    "mokhtarname/bb2": {
+      "mode": "sh_pages",
+      "count": 13
+    },
+    "mokhtarname/bb3": {
+      "mode": "sh_pages",
+      "count": 6
+    },
+    "mokhtarname/bb4": {
+      "mode": "sh_pages",
+      "count": 100
+    },
+    "mokhtarname/bb5": {
+      "mode": "sh_pages",
+      "count": 13
+    },
+    "mokhtarname/bb6": {
+      "mode": "sh_pages",
+      "count": 94
+    },
+    "mokhtarname/bb7": {
+      "mode": "sh_pages",
+      "count": 47
+    },
+    "mokhtarname/bb8": {
+      "mode": "sh_pages",
+      "count": 65
+    },
+    "mokhtarname/bb9": {
+      "mode": "sh_pages",
+      "count": 48
+    },
+    "mokhtarname/bb10": {
+      "mode": "sh_pages",
+      "count": 44
+    },
+    "mokhtarname/bb11": {
+      "mode": "sh_pages",
+      "count": 52
+    },
+    "mokhtarname/bb12": {
+      "mode": "sh_pages",
+      "count": 35
+    },
+    "mokhtarname/bb13": {
+      "mode": "sh_pages",
+      "count": 30
+    },
+    "mokhtarname/bb14": {
+      "mode": "sh_pages",
+      "count": 30
+    },
+    "mokhtarname/bb15": {
+      "mode": "sh_pages",
+      "count": 23
+    },
+    "mokhtarname/bb16": {
+      "mode": "sh_pages",
+      "count": 21
+    },
+    "mokhtarname/bb17": {
+      "mode": "sh_pages",
+      "count": 26
+    },
+    "mokhtarname/bb18": {
+      "mode": "sh_pages",
+      "count": 50
+    },
+    "mokhtarname/bb19": {
+      "mode": "sh_pages",
+      "count": 27
+    },
+    "mokhtarname/bb20": {
+      "mode": "sh_pages",
+      "count": 29
+    },
+    "mokhtarname/bb21": {
+      "mode": "sh_pages",
+      "count": 32
+    },
+    "mokhtarname/bb22": {
+      "mode": "sh_pages",
+      "count": 35
+    },
+    "mokhtarname/bb23": {
+      "mode": "sh_pages",
+      "count": 77
+    },
+    "mokhtarname/bb24": {
+      "mode": "sh_pages",
+      "count": 43
+    },
+    "mokhtarname/bb25": {
+      "mode": "sh_pages",
+      "count": 45
+    },
+    "mokhtarname/bb26": {
+      "mode": "sh_pages",
+      "count": 47
+    },
+    "mokhtarname/bb27": {
+      "mode": "sh_pages",
+      "count": 45
+    },
+    "mokhtarname/bb28": {
+      "mode": "sh_pages",
+      "count": 18
+    },
+    "mokhtarname/bb29": {
+      "mode": "sh_pages",
+      "count": 70
+    },
+    "mokhtarname/bb30": {
+      "mode": "sh_pages",
+      "count": 31
+    },
+    "mokhtarname/bb31": {
+      "mode": "sh_pages",
+      "count": 78
+    },
+    "mokhtarname/bb32": {
+      "mode": "sh_pages",
+      "count": 61
+    },
+    "mokhtarname/bb33": {
+      "mode": "sh_pages",
+      "count": 50
+    },
+    "mokhtarname/bb34": {
+      "mode": "sh_pages",
+      "count": 38
+    },
+    "mokhtarname/bb35": {
+      "mode": "sh_pages",
+      "count": 76
+    },
+    "mokhtarname/bb36": {
+      "mode": "sh_pages",
+      "count": 20
+    },
+    "mokhtarname/bb37": {
+      "mode": "sh_pages",
+      "count": 21
+    },
+    "mokhtarname/bb38": {
+      "mode": "sh_pages",
+      "count": 35
+    },
+    "mokhtarname/bb39": {
+      "mode": "sh_pages",
+      "count": 11
+    },
+    "mokhtarname/bb40": {
+      "mode": "sh_pages",
+      "count": 30
+    },
+    "mokhtarname/bb41": {
+      "mode": "sh_pages",
+      "count": 40
+    },
+    "mokhtarname/bb42": {
+      "mode": "sh_pages",
+      "count": 24
+    },
+    "mokhtarname/bb43": {
+      "mode": "sh_pages",
+      "count": 24
+    },
+    "mokhtarname/bb44": {
+      "mode": "sh_pages",
+      "count": 77
+    },
+    "mokhtarname/bb45": {
+      "mode": "sh_pages",
+      "count": 57
+    },
+    "mokhtarname/bb46": {
+      "mode": "sh_pages",
+      "count": 44
+    },
+    "mokhtarname/bb47": {
+      "mode": "sh_pages",
+      "count": 112
+    },
+    "mokhtarname/bb48": {
+      "mode": "sh_pages",
+      "count": 101
+    },
+    "mokhtarname/bb49": {
+      "mode": "sh_pages",
+      "count": 18
+    },
+    "mokhtarname/bb50": {
+      "mode": "sh_pages",
+      "count": 48
+    },
+    "mokhtarname/mghdme": {
+      "mode": "no_sh"
+    },
+    "jz/d2": {
+      "mode": "sh_pages",
+      "count": 47
+    },
+    "mosibatname/mbkhsh1": {
+      "mode": "sh_pages",
+      "count": 7
+    },
+    "mosibatname/mbkhsh2": {
+      "mode": "sh_pages",
+      "count": 9
+    },
+    "mosibatname/mbkhsh3": {
+      "mode": "sh_pages",
+      "count": 5
+    },
+    "mosibatname/mbkhsh4": {
+      "mode": "sh_pages",
+      "count": 13
+    },
+    "mosibatname/mbkhsh5": {
+      "mode": "sh_pages",
+      "count": 10
+    },
+    "mosibatname/mbkhsh6": {
+      "mode": "sh_pages",
+      "count": 6
+    },
+    "mosibatname/mbkhsh7": {
+      "mode": "sh_pages",
+      "count": 11
+    },
+    "mosibatname/mbkhsh8": {
+      "mode": "sh_pages",
+      "count": 9
+    },
+    "mosibatname/mbkhsh9": {
+      "mode": "sh_pages",
+      "count": 7
+    },
+    "mosibatname/mbkhsh10": {
+      "mode": "sh_pages",
+      "count": 13
+    },
+    "mosibatname/mbkhsh11": {
+      "mode": "sh_pages",
+      "count": 12
+    },
+    "mosibatname/mbkhsh12": {
+      "mode": "sh_pages",
+      "count": 13
+    },
+    "mosibatname/mbkhsh13": {
+      "mode": "sh_pages",
+      "count": 6
+    },
+    "mosibatname/mbkhsh14": {
+      "mode": "sh_pages",
+      "count": 5
+    },
+    "mosibatname/mbkhsh15": {
+      "mode": "sh_pages",
+      "count": 5
+    },
+    "mosibatname/mbkhsh16": {
+      "mode": "sh_pages",
+      "count": 10
+    },
+    "mosibatname/mbkhsh17": {
+      "mode": "sh_pages",
+      "count": 7
+    },
+    "mosibatname/mbkhsh18": {
+      "mode": "sh_pages",
+      "count": 6
+    },
+    "mosibatname/mbkhsh19": {
+      "mode": "sh_pages",
+      "count": 9
+    },
+    "mosibatname/mbkhsh20": {
+      "mode": "sh_pages",
+      "count": 9
+    },
+    "mosibatname/mbkhsh21": {
+      "mode": "sh_pages",
+      "count": 13
+    },
+    "mosibatname/mbkhsh22": {
+      "mode": "sh_pages",
+      "count": 13
+    },
+    "mosibatname/mbkhsh23": {
+      "mode": "sh_pages",
+      "count": 15
+    },
+    "mosibatname/mbkhsh24": {
+      "mode": "sh_pages",
+      "count": 8
+    },
+    "mosibatname/mbkhsh25": {
+      "mode": "sh_pages",
+      "count": 7
+    },
+    "mosibatname/mbkhsh26": {
+      "mode": "sh_pages",
+      "count": 4
+    },
+    "mosibatname/mbkhsh27": {
+      "mode": "sh_pages",
+      "count": 16
+    },
+    "mosibatname/mbkhsh28": {
+      "mode": "sh_pages",
+      "count": 6
+    },
+    "mosibatname/mbkhsh29": {
+      "mode": "sh_pages",
+      "count": 9
+    },
+    "mosibatname/mbkhsh30": {
+      "mode": "sh_pages",
+      "count": 12
+    },
+    "mosibatname/mbkhsh31": {
+      "mode": "sh_pages",
+      "count": 8
+    },
+    "mosibatname/mbkhsh32": {
+      "mode": "sh_pages",
+      "count": 6
+    },
+    "mosibatname/mbkhsh33": {
+      "mode": "sh_pages",
+      "count": 9
+    },
+    "mosibatname/mbkhsh34": {
+      "mode": "sh_pages",
+      "count": 9
+    },
+    "mosibatname/mbkhsh35": {
+      "mode": "sh_pages",
+      "count": 9
+    },
+    "mosibatname/mbkhsh36": {
+      "mode": "sh_pages",
+      "count": 12
+    },
+    "mosibatname/mbkhsh37": {
+      "mode": "sh_pages",
+      "count": 13
+    },
+    "mosibatname/mbkhsh38": {
+      "mode": "sh_pages",
+      "count": 10
+    },
+    "mosibatname/mbkhsh39": {
+      "mode": "sh_pages",
+      "count": 7
+    },
+    "mosibatname/mbkhsh40": {
+      "mode": "sh_pages",
+      "count": 25
+    }
+  },
+  "ferdousi": {
+    "__hint__": {
+      "mode": "unknown"
+    },
+    "shahname": {
+      "mode": "no_sh"
+    },
+    "shahname/aghaz": {
+      "mode": "sh_pages",
+      "count": 12
+    },
+    "shahname/qmars": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "shahname/hushang": {
+      "mode": "sh_pages",
+      "count": 3
+    },
+    "shahname/tahmoores": {
+      "mode": "sh_pages",
+      "count": 1
+    },
+    "shahname/jamshid": {
+      "mode": "sh_pages",
+      "count": 4
+    },
+    "shahname/zahak": {
+      "mode": "sh_pages",
+      "count": 12
+    },
+    "shahname/fereydoon": {
+      "mode": "sh_pages",
+      "count": 20
+    },
+    "shahname/manoochehr": {
+      "mode": "sh_pages",
+      "count": 28
+    },
+    "shahname/nozar": {
+      "mode": "sh_pages",
+      "count": 13
+    },
+    "shahname/zutahmasb": {
+      "mode": "sh_pages",
+      "count": 1
+    },
+    "shahname/garshasp": {
+      "mode": "sh_pages",
+      "count": 5
+    },
+    "shahname/kqobad": {
+      "mode": "sh_pages",
+      "count": 5
+    },
+    "shahname/kkavoos": {
+      "mode": "sh_pages",
+      "count": 17
+    },
+    "shahname/hamavaran": {
+      "mode": "sh_pages",
+      "count": 12
+    },
+    "shahname/sohrab": {
+      "mode": "sh_pages",
+      "count": 21
+    },
+    "shahname/siavosh": {
+      "mode": "sh_pages",
+      "count": 22
+    },
+    "shahname/kkhosro": {
+      "mode": "sh_pages",
+      "count": 3
+    },
+    "shahname/forood": {
+      "mode": "sh_pages",
+      "count": 25
+    },
+    "shahname/kamoos": {
+      "mode": "sh_pages",
+      "count": 16
+    },
+    "shahname/khaghan": {
+      "mode": "sh_pages",
+      "count": 17
+    },
+    "shahname/akvan": {
+      "mode": "sh_pages",
+      "count": 1
+    },
+    "shahname/bizhan": {
+      "mode": "sh_pages",
+      "count": 14
+    },
+    "shahname/12rokh": {
+      "mode": "sh_pages",
+      "count": 38
+    },
+    "shahname/mahmood": {
+      "mode": "sh_pages",
+      "count": 47
+    },
+    "shahname/lohrasp": {
+      "mode": "sh_pages",
+      "count": 17
+    },
+    "shahname/goshtasp": {
+      "mode": "sh_pages",
+      "count": 33
+    },
+    "shahname/7esfandyar": {
+      "mode": "sh_pages",
+      "count": 15
+    },
+    "shahname/esfandyar": {
+      "mode": "sh_pages",
+      "count": 31
+    },
+    "shahname/shqad": {
+      "mode": "sh_pages",
+      "count": 8
+    },
+    "shahname/bahman": {
+      "mode": "sh_pages",
+      "count": 5
+    },
+    "shahname/homa": {
+      "mode": "sh_pages",
+      "count": 7
+    },
+    "shahname/darab": {
+      "mode": "sh_pages",
+      "count": 4
+    },
+    "shahname/dara": {
+      "mode": "sh_pages",
+      "count": 10
+    },
+    "shahname/eskandar": {
+      "mode": "sh_pages",
+      "count": 47
+    },
+    "shahname/ashkanian": {
+      "mode": "sh_pages",
+      "count": 21
+    },
+    "shahname/ardeshir": {
+      "mode": "sh_pages",
+      "count": 14
+    },
+    "shahname/shapoor": {
+      "mode": "sh_pages",
+      "count": 3
+    },
+    "shahname/oormazd": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "shahname/bahram": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "shahname/bahram19": {
+      "mode": "sh_pages",
+      "count": 1
+    },
+    "shahname/bahramian": {
+      "mode": "sh_pages",
+      "count": 1
+    },
+    "shahname/nrsi": {
+      "mode": "sh_pages",
+      "count": 1
+    },
+    "shahname/oorner": {
+      "mode": "sh_pages",
+      "count": 1
+    },
+    "shahname/zolaktaf": {
+      "mode": "sh_pages",
+      "count": 16
+    },
+    "shahname/nekookar": {
+      "mode": "sh_pages",
+      "count": 1
+    },
+    "shahname/shapoor3": {
+      "mode": "sh_pages",
+      "count": 1
+    },
+    "shahname/bahpoor": {
+      "mode": "sh_pages",
+      "count": 1
+    },
+    "shahname/bezehgar": {
+      "mode": "sh_pages",
+      "count": 17
+    },
+    "shahname/bahgoor": {
+      "mode": "sh_pages",
+      "count": 46
+    },
+    "shahname/yazdgerd": {
+      "mode": "sh_pages",
+      "count": 4
+    },
+    "shahname/qobad": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "shahname/anooshirvan": {
+      "mode": "sh_pages",
+      "count": 12
+    },
+    "shahname/hormozd": {
+      "mode": "sh_pages",
+      "count": 10
+    },
+    "shahname/parviz": {
+      "mode": "sh_pages",
+      "count": 76
+    },
+    "shahname/shirooye": {
+      "mode": "sh_pages",
+      "count": 6
+    },
+    "shahname/ardeshiroo": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "shahname/farayeen": {
+      "mode": "sh_pages",
+      "count": 1
+    },
+    "shahname/pooran": {
+      "mode": "sh_pages",
+      "count": 1
+    },
+    "shahname/azarmdokht": {
+      "mode": "sh_pages",
+      "count": 1
+    },
+    "shahname/farrokh": {
+      "mode": "sh_pages",
+      "count": 1
+    },
+    "shahname/yazdgerd3": {
+      "mode": "sh_pages",
+      "count": 17
+    }
+  },
+  "iraj": {
+    "ghazal": {
+      "mode": "sh_pages",
+      "count": 16
+    },
+    "ghaside": {
+      "mode": "sh_pages",
+      "count": 36
+    },
+    "masnavi": {
+      "mode": "sh_pages",
+      "count": 37
+    },
+    "ghete": {
+      "mode": "sh_pages",
+      "count": 89
+    },
+    "robaee": {
+      "mode": "sh_pages",
+      "count": 7
+    },
+    "morabba": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "no": {
+      "mode": "sh_pages",
+      "count": 2
+    },
+    "abiat-praknd": {
+      "mode": "unknown"
+    },
+    "digar": {
+      "mode": "sh_pages",
+      "count": 5
+    }
+  },
+  "khayyam": {
+    "__hint__": {
+      "mode": "unknown"
+    },
+    "robaee": {
+      "mode": "sh_pages",
+      "count": 178
+    },
+    "tarane": {
+      "mode": "no_sh"
+    },
+    "tarane/khshaer": {
+      "mode": "no_sh"
+    },
+    "tarane/moghaddame": {
+      "mode": "no_sh"
+    },
+    "tarane/khphilo": {
+      "mode": "no_sh"
+    },
+    "tarane/tkh1": {
+      "mode": "sh_pages",
+      "count": 15
+    },
+    "tarane/tkh2": {
+      "mode": "sh_pages",
+      "count": 10
+    },
+    "tarane/tkh3": {
+      "mode": "sh_pages",
+      "count": 9
+    },
+    "tarane/tkh4": {
+      "mode": "sh_pages",
+      "count": 22
+    },
+    "tarane/tkh5": {
+      "mode": "sh_pages",
+      "count": 17
+    },
+    "tarane/tkh6": {
+      "mode": "sh_pages",
+      "count": 27
+    },
+    "tarane/tkh7": {
+      "mode": "sh_pages",
+      "count": 7
+    },
+    "tarane/tkh8": {
+      "mode": "sh_pages",
+      "count": 36
+    },
+    "nouroozname": {
+      "mode": "sh_pages",
+      "count": 42
+    },
+    "mirafzali": {
+      "mode": "no_sh"
+    },
+    "mirafzali/asil": {
+      "mode": "sh_pages",
+      "count": 20
+    },
+    "mirafzali/mohtamal": {
+      "mode": "sh_pages",
+      "count": 49
+    }
+  },
+  "nezami": {
+    "__hint__": {
+      "mode": "unknown"
+    },
+    "5ganj": {
+      "mode": "no_sh"
+    },
+    "5ganj/khosro-shirin": {
+      "mode": "sh_pages",
+      "count": 121
+    },
+    "5ganj/leyli-majnoon": {
+      "mode": "sh_pages",
+      "count": 46
+    },
+    "5ganj/7peykar": {
+      "mode": "sh_pages",
+      "count": 38
+    },
+    "5ganj/sharafname": {
+      "mode": "sh_pages",
+      "count": 63
+    },
+    "5ganj/kheradname": {
+      "mode": "sh_pages",
+      "count": 50
+    },
+    "5ganj/makhzanolasrar": {
+      "mode": "sh_pages",
+      "count": 60
+    }
+  },
+  "saadi": {
+    "__hint__": {
+      "mode": "unknown"
+    },
+    "divan": {
+      "mode": "no_sh"
+    },
+    "divan/ghazals": {
+      "mode": "sh_pages",
+      "count": 637
+    },
+    "divan/robaees": {
+      "mode": "sh_pages",
+      "count": 146
+    },
+    "divan/ghetes": {
+      "mode": "sh_pages",
+      "count": 20
+    },
+    "divan/molhaghat": {
+      "mode": "sh_pages",
+      "count": 31
+    },
+    "divan/tarjee-band": {
+      "mode": "no_sh"
+    },
+    "boostan": {
+      "mode": "no_sh"
+    },
+    "boostan/niyayesh": {
+      "mode": "sh_pages",
+      "count": 6
+    },
+    "boostan/bab1": {
+      "mode": "sh_pages",
+      "count": 41
+    },
+    "boostan/bab2": {
+      "mode": "sh_pages",
+      "count": 30
+    },
+    "boostan/bab3": {
+      "mode": "sh_pages",
+      "count": 25
+    },
+    "boostan/bab4": {
+      "mode": "sh_pages",
+      "count": 28
+    },
+    "boostan/bab5": {
+      "mode": "sh_pages",
+      "count": 15
+    },
+    "boostan/bab6": {
+      "mode": "sh_pages",
+      "count": 15
+    },
+    "boostan/bab7": {
+      "mode": "sh_pages",
+      "count": 29
+    },
+    "boostan/bab8": {
+      "mode": "sh_pages",
+      "count": 15
+    },
+    "boostan/bab9": {
+      "mode": "sh_pages",
+      "count": 22
+    },
+    "boostan/bab10": {
+      "mode": "sh_pages",
+      "count": 4
+    },
+    "mavaez": {
+      "mode": "no_sh"
+    },
+    "mavaez/ghazal2": {
+      "mode": "sh_pages",
+      "count": 65
+    },
+    "mavaez/ghasides": {
+      "mode": "sh_pages",
+      "count": 61
+    },
+    "mavaez/marasi": {
+      "mode": "sh_pages",
+      "count": 7
+    },
+    "mavaez/ghete2": {
+      "mode": "sh_pages",
+      "count": 228
+    },
+    "mavaez/masnaviat": {
+      "mode": "sh_pages",
+      "count": 46
+    },
+    "mavaez/robaees2": {
+      "mode": "sh_pages",
+      "count": 56
+    },
+    "mavaez/arabi": {
+      "mode": "sh_pages",
+      "count": 23
+    },
+    "mavaez/mofradat": {
+      "mode": "sh_pages",
+      "count": 91
+    },
+    "mavaez/mo3at": {
+      "mode": "no_sh"
+    },
+    "golestan": {
+      "mode": "no_sh"
+    },
+    "golestan/dibache": {
+      "mode": "no_sh"
+    },
+    "golestan/gbab1": {
+      "mode": "sh_pages",
+      "count": 41
+    },
+    "golestan/gbab2": {
+      "mode": "sh_pages",
+      "count": 48
+    },
+    "golestan/gbab3": {
+      "mode": "sh_pages",
+      "count": 28
+    },
+    "golestan/gbab4": {
+      "mode": "sh_pages",
+      "count": 14
+    },
+    "golestan/gbab5": {
+      "mode": "sh_pages",
+      "count": 21
+    },
+    "golestan/gbab6": {
+      "mode": "sh_pages",
+      "count": 9
+    },
+    "golestan/gbab7": {
+      "mode": "sh_pages",
+      "count": 20
+    },
+    "golestan/gbab8": {
+      "mode": "sh_pages",
+      "count": 109
+    },
+    "nasr": {
+      "mode": "sh_pages",
+      "count": 6
+    },
+    "majales5": {
+      "mode": "sh_pages",
+      "count": 5
+    }
+  },
+  "saeb": {
+    "__hint__": {
+      "mode": "unknown"
+    },
+    "divan-saeb": {
+      "mode": "no_sh"
+    },
+    "divan-saeb/ghazalkasa": {
+      "mode": "sh_pages",
+      "count": 6995
+    },
+    "divan-saeb/ghasayed-sa": {
+      "mode": "sh_pages",
+      "count": 45
+    },
+    "divan-saeb/takbeit": {
+      "mode": "sh_pages",
+      "count": 1542
+    },
+    "divan-saeb/ghtorki": {
+      "mode": "sh_pages",
+      "count": 20
+    },
+    "divan-saeb/matale": {
+      "mode": "sh_pages",
+      "count": 518
+    },
+    "divan-saeb/motefarreghat": {
+      "mode": "sh_pages",
+      "count": 685
+    },
+    "divan-saeb/mansoobat": {
+      "mode": "sh_pages",
+      "count": 72
+    }
+  },
+  "shahriar": {
+    "__hint__": {
+      "mode": "unknown"
+    },
+    "gozidegh": {
+      "mode": "sh_pages",
+      "count": 162
+    },
+    "torki": {
+      "mode": "sh_pages",
+      "count": 30
+    },
+    "heydarbaba": {
+      "mode": "no_sh"
+    },
+    "heydarbaba2": {
+      "mode": "no_sh"
+    }
+  }
+}
